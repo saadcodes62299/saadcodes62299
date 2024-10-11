@@ -1,18 +1,23 @@
-# Hello, This is my profile
+# Hi there, I'm Saad 👋
 
-## Hi there 👋
+## 👨‍💻 About Me
+I'm a passionate Web Dev from Canada.
 
-<!--
-**saadcodes62299/saadcodes62299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Ai Chatbot
+- 🌱 I’m currently learning TypeScript and React.js.
+- 👯 I’m looking to collaborate on open-source projects.
+- 🤔 I’m looking for help with advanced Javascript patterns.
+- 💬 Ask me about JavaScript, CSS, and web accessibility.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+- **Languages**: JavaScript, HTML, CSS
+- **Frameworks**: React
+- **Databases**: SQL
+- **Tools**: Git, Figma, Photoshop
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎉 Contributions
+Feel free to check out my repositories and contribute if you find something interesting!
+
+---
+
+Thank you for visiting my profile! ⭐️
